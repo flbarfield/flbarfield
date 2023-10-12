@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-9235de5183f0.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
+- Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
 - 📫 How to reach me **barfieldfredrick@gmail.com**
 
-- ⚡ Fun fact **Being a techno-geek and videogame nerd from an early age, I've always found myself enthralled by the digital space! To me, it signifies the limitless potential of human growth through ever-expanding methods of collaboration with one another! And I would LOVE to help users connect and be delighted by your content and services to make everyone's world just that much brighter! Furthermore, with my previous years of experience in the hospitality and construction industries, I highly value the relationship between the service provider and client as well. Meaning, that when you work with me, you'll get weekly updates on the development of your project, and I'll be no stranger to a collaborative environment should your project need extra manpower beyond myself. When I'm not coding, I can be found drawing, playing bass guitar, dancing West Coast Swing, or actively training in circus arts!**
+Being a techno-geek and videogame nerd from an early age, I've always found myself enthralled by the digital space! To me, it signifies the limitless potential of human growth through ever-expanding methods of collaboration with one another! And I would LOVE to help users connect and be delighted by your content and services to make everyone's world just that much brighter! Furthermore, with my previous years of experience in the hospitality and construction industries, I highly value the relationship between the service provider and client as well as the interpersonal relationships between team members. When I'm not coding, I can be found drawing, playing bass guitar, dancing West Coast Swing, or actively training in circus arts!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
