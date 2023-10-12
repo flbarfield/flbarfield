@@ -6,12 +6,6 @@
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
 Being a techno-geek and videogame nerd from an early age, I've always found myself enthralled by the digital space! To me, it signifies the limitless potential of human growth through ever-expanding methods of collaboration with one another! And I would LOVE to help users connect and be delighted by your content and services to make everyone's world just that much brighter! Furthermore, with my previous years of experience in the hospitality and construction industries, I highly value the relationship between the service provider and client as well as the interpersonal relationships between team members. When I'm not coding, I can be found drawing, playing bass guitar, dancing West Coast Swing, or actively training in circus arts!
-<h2 align="center">Projects</h2>
--------------
-|<h3 align='center'>[Cirque Fitness - Fitness Tracker](https://cirque-fitness-9235de5183f0.herokuapp.com/) </h3>![Cirque Fitness Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/CirqueFitness_wckdlp.gif) Node, MongoDB, Javascript, EJS - A circus art's fitness Fullstack web application. |<h3 align='center'>[The Budding Chef - Recipe Finder](https://thebuddingchef.netlify.app/)</h3>![The Budding Chef - Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/TheBuddingChef_kxhedk.gif) JavaScript, HTML, CSS - Utilizes the fetching and manipulation of data acquired from two publicly sourced APIs. |
-|--|--|
-|<h3 align="center"> [Aurora Luxury Rentals](https://auroraluxuryrentals.netlify.app/) </h3>![Aurora Luxury Rentals image](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132842/Portfolio/auroraStill_banubq.png)Javascript, CSS, HTML - Built for a client's Airbnb and luxury home rental business in the making, this landing page will serve as a foundation for their web presence once they get up and running. | <h3 align='center'> [Ricky Barfield Portfolio](https://ricky-barfield.netlify.app/) </h3>![Ricky Barfield Portfolio Site](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/portfolioScreen_miwun1.png)HTML, CSS, JavaScript - Portfolio Site including links to my projects and ways to get in contact with me.|
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
