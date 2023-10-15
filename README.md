@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
-<h3 align="center">Software Engineer available for hire.</h3>
+<h3 align="center">Full-stack software engineer, available for hire </h3>
 
 - 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-9235de5183f0.herokuapp.com/)
 - 📫 How to reach me barfieldfredrick@gmail.com
