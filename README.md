@@ -1,8 +1,9 @@
 
+
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
-- 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-9235de5183f0.herokuapp.com/)
+- 🔭 I’m currently working on [Cirque Fitness](https://cirquefitness.cyclic.app/)
 - 📫 How to reach me barfieldfredrick@gmail.com
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
@@ -11,7 +12,7 @@ Being a techno-geek and videogame nerd from an early age, I've always found myse
 
 -------------
 
-|<h3 align='center'>[Cirque Fitness - Fitness Tracker](https://cirque-fitness-9235de5183f0.herokuapp.com/) </h3>![Cirque Fitness Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/CirqueFitness_wckdlp.gif) ***WORK IN PROGRESS*** <br> [Repo Link](https://github.com/flbarfield/cirqueFitness) <br>Node, MongoDB, Javascript, EJS - A circus art's fitness Fullstack web application. Users can currently create and log into profiles, create their own exercises, track reps and sets, and make notes about individual exercises. A timer is also included for isometric work.   |<h3 align='center'>[The Budding Chef - Recipe Finder](https://thebuddingchef.netlify.app/)</h3>![The Budding Chef - Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/TheBuddingChef_kxhedk.gif) [Repo Link](https://github.com/flbarfield/theBuddingChef)<br>JavaScript, HTML, CSS - Built as a tool for a blog, users can search by specific main ingredients in order to obtain a list of recipes. Utilizes the fetching and manipulation of data acquired from two publicly sourced APIs. | 
+|<h3 align='center'> [Cirque Fitness - Fitness Tracker](https://cirquefitness.cyclic.app/) </h3>![Cirque Fitness Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/CirqueFitness_wckdlp.gif) ***WORK IN PROGRESS*** <br> [Repo Link](https://github.com/flbarfield/cirqueFitness) <br>Node, MongoDB, Javascript, EJS - A circus art's fitness Fullstack web application. Users can currently create and log into profiles, create their own exercises, track reps and sets, and make notes about individual exercises. A timer is also included for isometric work.   |<h3 align='center'>[The Budding Chef - Recipe Finder](https://thebuddingchef.netlify.app/)</h3>![The Budding Chef - Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/TheBuddingChef_kxhedk.gif) [Repo Link](https://github.com/flbarfield/theBuddingChef)<br>JavaScript, HTML, CSS - Built as a tool for a blog, users can search by specific main ingredients in order to obtain a list of recipes. Utilizes the fetching and manipulation of data acquired from two publicly sourced APIs. | 
 |---|---|
 |<h3 align="center"> [Aurora Luxury Rentals](https://auroraluxuryrentals.netlify.app/) </h3>![Aurora Luxury Rentals image](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132842/Portfolio/auroraStill_banubq.png) [Repo Link](https://github.com/flbarfield/auroraLuxuryRentals) <br>Javascript, CSS, HTML - Built for a client's Airbnb and luxury home rental business in the making, this landing page will serve as a foundation for their web presence once they get up and running.         |<h3 align='center'> [Ricky Barfield Portfolio](https://ricky-barfield.netlify.app/) </h3>![Ricky Barfield Portfolio Site](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/portfolioScreen_miwun1.png) [Repo Link](https://github.com/flbarfield/portfolioStuff) <br>HTML, CSS, JavaScript - Portfolio Site including links to my projects and ways to get in contact with me.|
 
