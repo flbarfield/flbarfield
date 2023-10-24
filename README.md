@@ -5,7 +5,7 @@
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
 - 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-7a65c25767f6.herokuapp.com/), and "Egghead's Board Game Tools".
-- :book: I'm currently researching the intricacies of Next.js and Tailwind. Also, regularly completing Javascript code challenges.
+- :book: I'm currently researching the intricacies of Next.js and Tailwind. Also prepping for interviews.
 - 📫 How to reach me barfieldfredrick@gmail.com
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
