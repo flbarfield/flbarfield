@@ -1,9 +1,11 @@
 
 
+
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
-- 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-7a65c25767f6.herokuapp.com/)
+- 🔭 I’m currently working on [Cirque Fitness](https://cirque-fitness-7a65c25767f6.herokuapp.com/), and "Egghead's Board Game Tools".
+- :book: I'm currently researching the intricacies of Next.js and Tailwind.
 - 📫 How to reach me barfieldfredrick@gmail.com
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
