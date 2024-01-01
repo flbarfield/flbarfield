@@ -6,7 +6,7 @@
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
 - 🔭 I’m currently working on [Egghead's Board Game Tools](https://github.com/flbarfield/eggheadsBoardGameTools) and a skill tree creator with NicholasACTran
-- :book: I'm currently participating in the "Elevate" program hosted by Onramp.io, and taking the "Python for Programmers" course on Educative.io
+- :book: I'm currently participating in the "Elevate" program hosted by Onramp.io, taking the "Python for Programmers" course on Educative.io, and studying "A Common Sense Guide to Data Structures and Algorithms" by Jay Wengrow
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
