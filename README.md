@@ -2,12 +2,14 @@
 
 
 
+
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
 - 🔭 I’m currently working on [Egghead's Board Game Tools](https://github.com/flbarfield/eggheadsBoardGameTools), a skill tree creator with NicholasACTran, and completing various small Python scripts to solidify my recent learning of the language.
 - :book: I'm currently participating in "The Collab Lab", taking the "Python for Programmers" course on Educative.io, and studying "A Common Sense Guide to Data Structures and Algorithms" by Jay Wengrow
 - 📫 How to reach me: barfieldfredrick@gmail.com
+- :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
 
 Being a techno-geek and videogame nerd from an early age, I've always found myself enthralled by the digital space! To me, it signifies the limitless potential of human growth through ever-expanding methods of collaboration with one another! And I would LOVE to help users connect and be delighted by your content and services to make everyone's world just that much brighter! Furthermore, with my previous years of experience in the hospitality and construction industries, I highly value the relationship between the service provider and client as well as the interpersonal relationships between team members. When I'm not coding, I can be found drawing, playing bass guitar, dancing West Coast Swing, or actively training in circus arts!
