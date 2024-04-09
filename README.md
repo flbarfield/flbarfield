@@ -7,8 +7,8 @@
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
-- 🔭 I just finished building ["CleverCart"](https://github.com/the-collab-lab/tcl-67-smart-shopping-list) with three other developers and am completing various small Python scripts to solidify my recent learning of the language.
-- :book: I'm currently participating in "The Collab Lab", taking the "Python for Programmers" course on Educative.io, and began re-reading "The Pragmatic Programmer", by Andrew Hunt and David Thomas
+- 🔭 I'm currently aiming to assist in the development of two different mobile applications and am practicing Flutter development in anticipation.
+- :book: I'm studying the "Python for Programmers" course on Educative.io, and began re-reading "The Pragmatic Programmer", by Andrew Hunt and David Thomas
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
