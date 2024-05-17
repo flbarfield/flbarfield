@@ -8,7 +8,7 @@
 <h3 align="center">Full-stack software engineer, available for hire </h3>
 
 - 🔭 I'm currently aiming to assist in the development of two different mobile applications and am practicing Flutter development in anticipation.
-- :book: I'm studying the "Python for Programmers" course on Educative.io, and began re-reading "The Pragmatic Programmer", by Andrew Hunt and David Thomas
+- :book: I'm studying the "Become a Flutter Developer" course on Educative.io, and began reading "Atomic Habits", by James Clear
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
