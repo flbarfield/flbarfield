@@ -16,7 +16,6 @@ When I’m not coding or learning, I can be found drawing, playing bass guitar, 
 - :book: I’m currently immersed in ASU’s Data Science curriculum. While I’ve had a taste of how the institution approaches technical topics through courses such as Data Ethics and Introduction to Programming (Java), I’ll be fully engaged in data science–focused courses rather than general education requirements starting after Spring 2026.
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
-- 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
   
 <h2 align="center">Projects</h2>
 <p><i align="center">Admittedly, these projects demonstrate my coding ability from a Software Engineering perspective, using various different programming tools. Data Science specific projects are to come...</i></p>
