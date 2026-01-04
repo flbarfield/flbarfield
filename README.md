@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
-<h3 align="center">Full-stack software engineer, available for hire </h3>
+<h3 align="center">Data Science Student, Looking for Internships </h3>
 
 - 🔭 I'm currently aiming to assist in the development of two different mobile applications and am practicing Flutter development in anticipation.
 - :book: I'm studying the "Become a Flutter Developer" course on Educative.io, and began reading "Atomic Habits", by James Clear
