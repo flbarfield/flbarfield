@@ -7,15 +7,20 @@
 <h1 align="center">Hello! I'm Fredrick (Ricky) Barfield</h1>
 <h3 align="center">Data Science Student, Looking for Internships </h3>
 
-- 🔭 I'm currently aiming to assist in the development of two different mobile applications and am practicing Flutter development in anticipation.
-- :book: I'm studying the "Become a Flutter Developer" course on Educative.io, and began reading "Atomic Habits", by James Clear
+Being a techno-geek and video game nerd from an early age, I’ve always been enthralled by the digital world. To me, it represents the limitless potential of human growth through ever-expanding methods of collaboration. With my current focus on Data Science, combined with past software development experience through independent study and internships, I’m determined to break into the wide and fascinating world of data analytics.
+
+The idea of parsing large volumes of information to uncover meaningful correlations—and communicating those insights directly to stakeholders—is immensely appealing. Data science has the power to steer businesses in the right direction, whether it’s evaluating the effectiveness of medications during a public health crisis, predicting customer purchasing patterns to optimize inventory and reduce waste, or analyzing sports performance metrics. Data scientists are essential contributors to teams that want to make informed, meaningful decisions—and that ability to create real positive impact is exactly what drives me to pursue this field with passion every day!
+
+When I’m not coding or learning, I can be found drawing, playing bass guitar, dancing West Coast Swing, or training in circus arts.
+
+- :book: I’m currently immersed in ASU’s Data Science curriculum. While I’ve had a taste of how the institution approaches technical topics through courses such as Data Ethics and Introduction to Programming (Java), I’ll be fully engaged in data science–focused courses rather than general education requirements starting after Spring 2026.
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
 - 👨‍💻 Portfolio: [https://ricky-barfield.netlify.app/](https://ricky-barfield.netlify.app/)
-
-Being a techno-geek and videogame nerd from an early age, I've always found myself enthralled by the digital space! To me, it signifies the limitless potential of human growth through ever-expanding methods of collaboration with one another! And I would LOVE to help users connect and be delighted by your content and services to make everyone's world just that much brighter! Furthermore, with my previous years of experience in the hospitality and construction industries, I highly value the relationship between the service provider and client as well as the interpersonal relationships between team members. When I'm not coding, I can be found drawing, playing bass guitar, dancing West Coast Swing, or actively training in circus arts!
+  
 <h2 align="center">Projects</h2>
-
+<p><i align="center">Admittedly, these projects demonstrate my coding ability from a Software Engineering perspective, using various different programming tools. Data Science specific projects are to come...</i></p>
+<br/>
 
 
 |<h3 align='center'> CleverCart </h3> ![CleverCart App](https://res.cloudinary.com/dniwvymzt/image/upload/v1712593244/clevercart2_iqnuhf.gif)    [Start Blog](https://rickybarfieldcodes.wordpress.com/2024/02/16/the-collab-lab-my-experience-two-weeks-in/)...[Conclusion Blog](https://rickybarfieldcodes.wordpress.com/2024/04/07/the-collab-lab-completed-my-thoughts/) <br/>[Codebase](https://github.com/the-collab-lab/tcl-67-smart-shopping-list)...[Live Link](https://tcl-67-smart-shopping-list.web.app/)<br/> With the focus of this Collab Lab project being gaining real world experience working as a team guided by working professional developer mentors, we built an algorithmic shopping application based on React and Firebase. |<h3 align='center'> [Cirque Fitness - Fitness App](https://cirque-fitness-7a65c25767f6.herokuapp.com/) </h3> </h3>![Cirque Fitness Website Gif](https://res.cloudinary.com/dniwvymzt/image/upload/v1697132736/Portfolio/CirqueFitness_wckdlp.gif) [Repo Link](https://github.com/flbarfield/cirqueFitness) <br>Node, MongoDB, Javascript, EJS - A circus art's fitness Fullstack web application. Users can currently create and log into profiles, create their own exercises, track reps and sets, and make notes about individual exercises. A timer is also included for isometric work.    |
