@@ -14,7 +14,7 @@ The idea of parsing large volumes of information to uncover meaningful correlati
 When I’m not coding or learning, I can be found drawing, playing bass guitar, dancing West Coast Swing, or training in circus arts.
 
 - :book: I’m currently immersed in ASU’s Data Science curriculum. While I’ve had a taste of how the institution approaches technical topics through courses such as Data Ethics and Introduction to Programming (Java), I’ll be fully engaged in data science–focused courses rather than general education requirements starting after Spring 2026.
-- 🔭 January 5th, 2026 I've begun working on the "Data Science Specialization" courses hosted by John Hopkins University on Coursera, in order to have an edge on my upcoming coursework.
+- 🔭 January 5th, 2026 I've begun working on the "Data Science Specialization" courses hosted by John Hopkins University on Coursera, in order to have an edge on my upcoming coursework. It's been a blast learning more about the profession and I'll soon be diving into intricacies of the R programming language!
 - 📫 How to reach me: barfieldfredrick@gmail.com
 - :loudspeaker: Blog: https://rickybarfieldcodes.wordpress.com/
   
